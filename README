@@ -1,13 +1,12 @@
 Hosting HTML Pages Using AWS S3 and CloudFront
 
-c:\Users\20l31\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 102117.png
-
-c:\Users\20l31\OneDrive\Pictures\Screenshots\Screenshot 2025-03-23 103931.png
 
 URLs for:
 
 CloudFront distribution domain : d2q26pxss4fjqq.cloudfront.net
 S3 website endpoint : http://mybucket-assignme.s3-website-us-east-1.amazonaws.com
+
+
 
 
 
